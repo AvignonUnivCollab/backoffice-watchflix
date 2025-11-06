@@ -55,7 +55,7 @@ Chaque phase donnera lieu à des **artefacts de travail** (rapports, comptes ren
 | NKEOUA Lionel  | Développeur Frontend  | Chef de projet             | Planification, coordination, suivi Trello |
 | Dalia bensaid  | Développeur Backend   | API Java Spring Boot       |
 | Lina Ould Amer | Développeur Backend   | Intégration API Backoffice |
-| Lina Ould Amer | Développeur Backend   | Intégration API Backoffice |
+| Ines Chegroun  | Développeur Backend   | Intégration API Backoffice |
 
 ---
 
